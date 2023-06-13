@@ -1,1 +1,1 @@
-# Odin-recipes
+Pepkatta's recipes
